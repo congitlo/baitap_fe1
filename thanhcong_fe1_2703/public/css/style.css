@@ -1,0 +1,77 @@
+
+.hearder{
+    background-color: gray;
+    padding: 5px 5px 0px 0px;
+}
+.logo{
+    margin-left: 60px;
+    margin-right: 60px;
+    /* margin: 0 60px; */
+}
+.navbar{
+    background-color: orangered;
+    margin: 0px 60px 0px 60px;
+    padding: 10px;
+    /* margin: 0 60px;
+    padding: 10px; */
+}
+.banner{
+    margin: 0px 60px 0px 60px;
+    padding: 10px;
+}
+.banner, h1{
+    color: orangered;
+}
+.banner, p{
+    color: burlywood;
+}
+.banner button{
+    color: black;
+    border-radius: 10px;
+}
+.content{
+    background-color: black;
+    color: aliceblue;
+    margin: 40px 60px 0px 60px;
+    padding: 10px;
+}
+.row{
+    margin: 60px;
+    padding: 20px;
+    border-color: black;
+}
+.item1{
+    background-color:rgb(233, 238, 238);
+}
+.item2{
+    background-color:rgb(233, 238, 238);
+}
+.item3{
+    background-color:rgb(233, 238, 238);
+}
+.item4{
+    background-color:rgb(233, 238, 238);
+}
+.item-name{
+    text-align: center;
+    color: hsl(11.6deg 77.68% 54.31%);
+}
+.item-photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+.item-price{
+    text-align: center;
+}
+.item-botton{
+    color: rgb(24, 84, 143);
+    text-align: center;
+}
+
+.footer-content{
+    text-align: center;
+    background-color: orangered;
+    padding: 10px;
+}
