@@ -1,0 +1,73 @@
+.nav {
+    margin: 0px 120px;
+    padding: 10px 10px 50px 10px;
+}
+.logo{
+    text-align: center;
+    margin: 40px 0px;
+    padding: 10px;
+}
+.rounded-pill{
+    margin-left:120px;
+    
+}
+.card{
+ height: 300px;
+}
+.content{
+    background-color: #E7E9EB;
+    height: 420px;
+    display: flex; /* Canh giữa bằng flex */
+    justify-content: center;
+    align-items: center;
+    
+}
+.img-fluid{
+    text-align: center;
+}
+.product {
+    width: 360px;
+    margin: 0px 10px;
+}
+.item-name{
+    margin-top: 300px;
+}
+.addtc{
+    width: 265px;
+    margin-top: 85px;
+}
+.buy{
+    width: 69px;
+    margin-top: 85px;
+}
+.img-shoe{
+    margin-left: 120px;
+}
+.review{
+    margin-right: 400px;
+    width: 350px;
+    
+}
+
+.img-shop{
+    position:relative; 
+    width: 120px;
+}
+a{
+    color: black;
+    text-decoration: none
+}
+.shopnow {
+    float: right;
+}
+.form-group{
+    display: flex;
+}
+.footer-content{
+    color: #E7E9EB;
+    background: black;
+    text-align: center;
+    height: auto;
+    
+}
+
