@@ -1,0 +1,63 @@
+  .hearder{
+    background: hsl(205.71deg 9.09% 15.1%);
+    padding: 5px 0;
+  }
+  .logo{
+    margin: 0 60px;
+  }
+  .navbar{
+    background: #e44f2b;
+    margin: 0 60px;
+    padding: 10px;
+  
+  }
+  .banner{
+    margin: 0 60px;
+  }
+  .banner, h1{
+    color: hsl(11.37deg 64.02% 46.86%);
+    margin: 30px;
+  }
+  .banner, p{
+    color: #ebebeb;
+  }
+  .banner button{
+    border-radius: 10px;
+  }
+  .content{
+    background: hsl(0deg 0% 92.16%);
+    padding: 5px 0;
+  }
+  .back{
+    background: hsl(0deg 0% 92.16%);
+  }
+  .browse{
+    color: aliceblue;
+    background: hsl(205.71deg 9.09% 15.1%);
+    margin: 60px;
+    padding: 20px;
+  }
+  .row{
+    margin: 60px;
+    padding: 20px;
+  }
+  .item{
+    color: hsl(11.6deg 77.68% 54.31%);
+  }
+  .item-name{
+    color: hsl(11.6deg 77.68% 54.31%);
+  }
+  .item-price{
+    color: hsl(260deg 2.52% 23.33%);
+  }
+  .item button{
+    border-radius: 20px;
+  }
+  .footer-content{
+    text-align: center;
+    background: #e44f2b;
+    padding: 10px;
+  }
+  
+  
+    
